@@ -63,7 +63,7 @@ square, i.e. for each of the 4 straight line movements of the robot.
 
 ![](readmeImages/roboticsPic1.png)
 
-![](readmeImages/roboticsPic2.png)
+![](readmeImages/roboticspic2.png)
 
 ![](readmeImages/roboticsPic3.png)
 
