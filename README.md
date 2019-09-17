@@ -3,7 +3,6 @@ Using Lejos to program a robot to track its own position using Dead Reckoning lo
 
 # Trajectory Tracking Robot
 ## Sarmed Alwan
-## 1603088
 
 # Description of Differential Drive Robot
 
