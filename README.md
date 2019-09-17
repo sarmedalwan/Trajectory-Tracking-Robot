@@ -61,12 +61,24 @@ square, i.e. for each of the 4 straight line movements of the robot.
 
 # Evaluation of Robot
 
+![](readmeImages/roboticsPic1.png)
+
+![](readmeImages/roboticsPic2.png)
+
+![](readmeImages/roboticsPic3.png)
+
 Above is the trajectory displayed in coordinates, with the Tacho Count also
 showing the distance travelled by the robot. The coordinates are saved to a
 file ‘coordinates,’ as can be seen below.
 
+![](readmeImages/roboticsPic4.png)
+
 Below are also the results when I set the speed of the robot to 5, slowing it
 down a lot.
+
+![](readmeImages/roboticsPic5.png)
+
+![](readmeImages/roboticsPic6.png)
 
 As is apparent, the coordinates and Tacho Count are changing much more
 slowly, as expected.
