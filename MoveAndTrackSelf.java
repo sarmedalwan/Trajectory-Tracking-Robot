@@ -14,7 +14,7 @@ import java.io.*;
 /**
  * Created by sa16566 on 26/01/2018.
  */
-public class move1 {
+public class MoveAndTrackSelf {
     public static void main(String[] args) {
         DifferentialPilot pilot = new DifferentialPilot(3.25, 20, Motor.A, Motor.C, false);  // parameters in inches
         OdometryPoseProvider opp = new OdometryPoseProvider (pilot) ;
